@@ -9,7 +9,7 @@ SELECT
 	(AVG(avg_price) - (LAG(AVG(avg_price)) OVER (ORDER BY e_year, ttkpssf.GDP))) / (LAG(AVG(avg_price)) OVER (ORDER BY e_year, ttkpssf.GDP)) * 100 AS price_diff
 FROM t_tomas_komarek_project_SQL_primary_final ttkpspf 
 JOIN t_tomas_komarek_project_SQL_secondary_final ttkpssf 
-	ON ttkpspf.fp_year = ttkpssf.e_year
+	ON ttkpspf.year_final = ttkpssf.e_year
 	AND ttkpssf.country = "Czech Republic"
 GROUP BY e_year, ttkpssf.GDP
 )

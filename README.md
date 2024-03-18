@@ -10,11 +10,11 @@ V tomto datoazu byla spočítána prúměrná mzda a průměrné ceny za roky 20
 
 Výzkumná otázka 3)
 -----------------
-Na otázku, která kategorie potravin zdražuje nejpomaleji je odpověď : banány žluté. Nejprve byly vybrány ceny potravin za první a poslední období, tedy roky 2006 a 2018 (kromě jakostního vína bílého kde jsou údaje dostupné od roku 2015). Následně spočítán procentuální rozdíl. Jsou i potraviny, které za zkoumané období zlevnily. Otázka však byla směřována na potraviny, které zdražují nejpomaleji a to jsou tedy banány žluté. 
+Na otázku, která kategorie potravin zdražuje nejpomaleji je odpověď : cukr krystalový. Nejprve byly vybrány ceny potravin za první a poslední období, tedy roky 2006 a 2018. Následně spočítán procentuální rozdíl který ukazuje, že cukr krystalový dokonce zlevnil za sledované období o 27,52%.
 
 Výzkumná otázka 4)
 -----------------
-V této tabulce byly vypočteny meziroční procentuální rozdíly mezi všema cenama v letech a všema mzdama v letech. Následně spočítán procenualní rozdíl mezi rozdíly cena a mezd. Z tabulky je vidět, že mzdy rostly významěji (více než o 10%) v letech 2012, 2012, 2013 a 2017.    
+V této tabulce byly vypočteny meziroční procentuální rozdíly mezi všema cenama v letech a všema mzdama v letech. Následně byly tyto rozdily porovnány mezi sebou a jak tabulka ukazuje, tak v žádném ze sledovaných roků nedošlo v nárůstu k většímu rozdílu než 10 procentních bodů.    
 
 Výzkumná otázka 5)
 -----------------
